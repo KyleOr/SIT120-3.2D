@@ -166,6 +166,7 @@ export default {
   border-top-left-radius: 15px;
   border-bottom-left-radius: 15px;
   padding: 220px; 
+} 
 
 .login-icon {
   font-size: 48px;
@@ -250,6 +251,5 @@ export default {
 }
 .page-slide-enter, .page-slide-leave-to {
   transform: translateX(100%);
-}
 }
 </style>
